@@ -1,0 +1,74 @@
+SET
+CREATE TABLE
+CREATE TABLE
+constraint_name|table_name|column_name
+restaurant_pkey|restaurant|id
+(1 row)
+constraint_name|table_name|column_name
+address_pkey|address|id
+address_restaurant_id_fkey|address|restaurant_id
+(2 rows)
+CREATE TABLE
+constraint_name|table_name|column_name
+category_pkey|category|id
+(1 row)
+CREATE TABLE
+constraint_name|table_name|column_name
+dish_pkey|dish|id
+(1 row)
+CREATE TABLE
+CREATE TABLE
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+res_name|street_number|street_name|town|state
+Bytes of China|2020|Busy Street|Chinatown|MA
+(1 row)
+best_rating
+3.9
+(1 row)
+category|dish_name|price
+Chicken|1|$6.95
+Chicken|3|$6.95
+Luncheon Specials|1|$8.95
+Luncheon Specials|4|$8.95
+Luncheon Specials|5|$8.95
+House Specials|6|$15.95
+House Specials|7|$16.95
+House Specials|8|$17.95
+(8 rows)
+spicy_dish_name|category_id|price
+(0 rows)
+dish_name|dish_id|dish_count
+Fresh Mushroom with Snow Peapods and Baby Corns|5|1
+Beef with Garlic Sauce|4|1
+Sesame Chicken|6|1
+Sweet and Sour Chicken|2|1
+Special Minced Chicken|7|1
+Hunan Special Half & Half|8|1
+Chicken Wings|3|1
+(7 rows)
+best_rating|description
+3.9|Delectable Chinese Cuisine
+(1 row)
